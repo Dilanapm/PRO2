@@ -1,0 +1,13 @@
+:root{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    /* Primary color*/
+    --Very-dark-blue: hsl(233, 47%, 7%);
+    --Dark-desaturated-blue: hsl(244, 38%, 16%);
+    --Soft-violet: hsl(277, 64%, 61%);
+    --Soft-violet-transparent: rgba(95, 18, 143, 0.5);
+    /* Neutral colors*/
+    --White: hsl(0, 0%, 100%);
+    --Slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --Slightlier-transparent-white: hsla(0, 0%, 100%, 0.6);
+}
