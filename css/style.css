@@ -11,3 +11,25 @@
     --Slightly-transparent-white: hsla(0, 0%, 100%, 0.75);
     --Slightlier-transparent-white: hsla(0, 0%, 100%, 0.6);
 }
+body{
+    margin: 0 0 0 0;
+    padding: 0 auto;
+    min-width: 375px;
+    box-sizing: border-box;
+    background-color: var(--Very-dark-blue);
+    align-content: center;
+}
+.stats-card{
+    width: 332px;
+    margin: 0 auto;
+    margin-top: 86px;
+    overflow: hidden;
+    border-radius: 6px;
+    background-color: var(--Dark-desaturated-blue);
+    align-content: center;
+}
+.stats-card header img{
+    height: 244px;
+    position: relative;
+    /*filter: contrast(100%);*/
+}
